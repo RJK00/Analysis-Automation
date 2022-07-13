@@ -46,6 +46,7 @@ with open (txtpath, 'w') as txtfile:
     txtfile.write('Financial Analysis \n')
     txtfile.write('----------------------------\n')
     txtfile.write(f"Total Months: {total_months} \n \n")
+    txtfile.write(f"Total: $ {total_pnl:.2f} \n \n")
     txtfile.write(f"Average Change: $ {avg_pnl:.2f} \n \n")
     txtfile.write(f"Greatest PnL Increase: $ {max_pnl:.2f}  ({max_date}) \n \n")
     txtfile.write(f"Greatest PnL Decrease: $ {min_pnl: .2f}  ({min_date}) \n \n")
