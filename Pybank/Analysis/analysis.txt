@@ -1,0 +1,10 @@
+Financial Analysis 
+----------------------------
+Total Months: 86 
+ 
+Average Change: $ 262374.40 
+ 
+Greatest PnL Increase: $ 1141840.00  (Mar-13) 
+ 
+Greatest PnL Decrease: $ -1194133.00  (Feb-17) 
+ 
