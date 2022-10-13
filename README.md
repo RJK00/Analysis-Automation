@@ -1,4 +1,4 @@
-# python-challenge
+# Automated Basic Data Analysis
 
 Pybank: This script reads the financial records of a company from a .csv file and outputs an analysis in the form of a text file to the "Analysis" folder. The resulting text file will contain various calculations and observations such as the total months observed, net PnL, average PnL change, greatest increase in profits (data & value), and the greatest recorded loss (date & value).
 
